@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringBoot2MyBatisWithH2Application",
+            "request": "launch",
+            "mainClass": "com.in28minutes.springboot.mybatis.h2.example.SpringBoot2MyBatisWithH2Application",
+            "projectName": "spring-boot-2-myBatis-with-h2"
+        }
+    ]
+}
